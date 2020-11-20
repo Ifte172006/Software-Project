@@ -1,4 +1,9 @@
+#include<stdio.h>
 int main(){
-        printf("Hello Iftekhirul\n");
-        return 0;
+    char name[30];
+    printf("Enter your Name: ");
+    gets(name);
+    printf("Assalamualikum, %s\n", name);
+    return 0;
 }
+
