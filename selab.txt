@@ -1,0 +1,10 @@
+1. Create Account in GitHub/Bitbucket (No need if you already have one)
+2. Create a repository (public)
+3. Add a C file (master branch)
+4. Stage, Commit, and Push in the master branch.
+5. Create a branch (your_name) and push.
+6. Add a C file, Stage,  commit, and push in your_name branch
+7. Add a C file, Stage, commit, and push in the master branch
+8. Merge your_name branch into the  master branch
+9. Merge master branch into your_name branch
+10. Submit the URL to your repository in a text file in eLMS by 21 November 8:30 AM.
